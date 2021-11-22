@@ -1,0 +1,1 @@
+This script allows to pin apps to screen. After run script click CTRL + SPACE with active window and this window will be still on the top. To turn off active pinned window and click CTRL + SPACE again.
