@@ -1,0 +1,2 @@
+"Ctrl + Shift + Z" translate selected text from english to polish by run google translate and paste phrase
+"Ctrl + Shift + X" translate selected text from polish to english by run google translate and paste phrase
